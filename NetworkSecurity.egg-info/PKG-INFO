@@ -1,0 +1,14 @@
+Metadata-Version: 2.2
+Name: NetworkSecurity
+Version: 0.0.1
+Author: Pranav Nichit
+Author-email: pranavnichit17@gmail.com
+Requires-Dist: python-dotenv
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: pymongo[srv]
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

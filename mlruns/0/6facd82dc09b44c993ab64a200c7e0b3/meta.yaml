@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/prana/Desktop/NetworkSecurity_MLOPS/mlruns/0/6facd82dc09b44c993ab64a200c7e0b3/artifacts
+end_time: 1741370211957
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6facd82dc09b44c993ab64a200c7e0b3
+run_name: stylish-midge-868
+run_uuid: 6facd82dc09b44c993ab64a200c7e0b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741370204677
+status: 3
+tags: []
+user_id: prana
